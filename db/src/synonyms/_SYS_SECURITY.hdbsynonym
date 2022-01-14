@@ -1,0 +1,8 @@
+{
+  "HANA_ROLES.synonyms::SYS_OBJECT_PRIVILEGES": {
+    "target": {
+      "object": "_SYS_OBJECT_PRIVILEGES" ,
+      "schema": "_SYS_SECURITY"
+    }
+  }
+}

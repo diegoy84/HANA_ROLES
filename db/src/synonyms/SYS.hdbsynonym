@@ -1,0 +1,53 @@
+{
+
+"HANA_ROLES.synonyms::sys.users": {
+    "target": {
+    "schema": "SYS",
+    "object": "USERS"
+    }
+    },
+
+
+"HANA_ROLES.synonyms::sys.roles": {
+        "target": {
+        "schema": "SYS",
+        "object": "ROLES"
+        }
+        },
+ 
+        
+
+        "HANA_ROLES.synonyms::sys.dummy": {
+            "target": {
+            "object": "DUMMY",
+            "schema": "SYS"
+            }
+            },
+
+
+            "HANA_ROLES.synonyms::sys.m_services": {
+            "target": {
+            "object": "M_SERVICES",
+            "schema": "SYS"
+            }
+            },
+           
+           
+            "HANA_ROLES.synonyms::sys.m_service_memory": {
+            "target": {
+            "object": "M_SERVICE_MEMORY",
+            "schema": "SYS"
+            }
+            },
+
+
+
+            "HANA_ROLES.synonyms::sys.m_service_statistics": {
+            "target": {
+            "object": "M_SERVICE_STATISTICS",
+            "schema": "SYS"
+            }
+        }
+
+
+}

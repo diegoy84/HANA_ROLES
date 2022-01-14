@@ -1,0 +1,17 @@
+{
+    "role":{
+    "name": "HANA_ROLES.cyberlabsz_roles::Z_ADMIN_SEGURIDAD",
+    
+    "system_privileges": [
+    "CATALOG READ",
+    "AUDIT OPERATOR",
+    "AUDIT ADMIN",
+    "AUDIT READ",    
+    "CREATE USERGROUP",
+    "ROLE ADMIN"
+    
+    ]
+
+    }
+
+}

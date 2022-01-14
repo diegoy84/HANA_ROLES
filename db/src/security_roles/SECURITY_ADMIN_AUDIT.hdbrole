@@ -1,0 +1,9 @@
+{
+    "role":{
+    "name": "HANA_ROLES.security_roles::SECURITY_ADMIN_AUDIT",
+    "system_privileges": [
+    "CATALOG READ",
+    "AUDIT ADMIN"
+    ]
+    }
+    }
