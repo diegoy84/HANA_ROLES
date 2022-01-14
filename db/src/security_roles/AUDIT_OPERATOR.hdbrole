@@ -1,0 +1,8 @@
+{
+    "role":{
+    "name": "HANA_ROLES.security_roles::AUDIT_OPERATOR",
+    "system_privileges": [
+    "AUDIT OPERATOR"
+    ]
+    }
+    }

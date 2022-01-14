@@ -1,8 +1,0 @@
-{
-  "HANA_ROLES.synonyms::_sys_security._sys_password_blacklist": {
-  "target": {
-    "object": "_SYS_PASSWORD_BLACKLIST",
-    "schema": "_SYS_SECURITY"
-    }
-}
-}
